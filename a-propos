@@ -1,0 +1,38 @@
+<!DOCTYPE html >
+<html> _ _
+
+< tête >
+    < jeu de caractères méta  =" utf-8 " >
+    < title > À propos - Robbie Lens Photographie </ title >
+</ tête >
+
+< corps >
+    < a  href =" index.html " >
+        < img  src =" images/logo.png " alt =" Logo Objectif Robbie " >
+    </a> _ _
+    < a  href =" index.html " > Accueil </ a >
+    < h1 > À propos de Robbie Lens </ h1 >
+    <p> _ _
+        Photographe depuis plus de 5 ans, je réalise des reportages aux photos dynamiques et applicables pour vos
+        projets de communication. Créativité, qualité, et sérénité pour vous ! Je gère tout, depuis la direction
+        artistique, la réalisation du reportage jusqu'à la livraison de vos photos retouchées, prêtes à l'emploi.
+    </p> _ _
+    < h2 > Prestations </ h2 >
+    <ul> _ _
+        < li > Portrait seul ou à plusieurs </ li >
+        < li > Mode de prise de vue </ li >
+        < li > Retouches sur mesure </ li >
+        < li > Développement </ li >
+    </ul> _ _
+    < a  href =" index.html " >
+        < img  src =" images/logo.png " alt =" Logo Objectif Robbie " >
+    </a> _ _
+    < une  cible =" _blank " href =" https://twitter.com/ " >
+        < img  src =" images/twitter.png " alt =" Logo Twitter " >
+    </a> _ _
+    < une  cible =" _blank " href =" https://www.instagram.com/ " >
+        < img  src =" images/instagram.png " alt =" Logo Instagram " >
+    </a> _ _
+</ corps >
+
+</html> _ _
